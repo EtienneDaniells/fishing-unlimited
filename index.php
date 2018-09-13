@@ -46,13 +46,13 @@
             <div class='menu'>
                 <ul>
                     <li>
-                        <a href='Index.php'>Home</a>
+                        <a href='index.php'>Home</a>
                     </li>
                     <li>
-                        <a href='Cart.php'>Cart</a>
+                        <a href='resources/cart/products.php'>Products</a>
                     </li>
                     <li>
-                        <a href='About.php'>About</a>
+                        <a href='resources/cart/cart.php'>Cart</a>
                     </li>
                     <li>
                         <a href='logout.php'>Sign out</a>
@@ -68,13 +68,13 @@
             <div class='menu'>
                 <ul>
                     <li>
-                        <a href='Index.php'>Home</a>
+                        <a href='index.php'>Home</a>
                     </li>
                     <li>
-                        <a href=''>Products</a>
+                        <a href='resources/cart/products.php'>Products</a>
                     </li>
                     <li>
-                        <a href='About.php'>About</a>
+                        <a href='resources/cart/cart.php'>Cart</a>
                     </li>
                     <li>
                         <a href='#' id='signIn-pop'>Sign In</a>
