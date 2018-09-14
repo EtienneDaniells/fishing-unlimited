@@ -56,7 +56,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
     <link rel="stylesheet" href="../css/ionicons.min.css">
     <link rel="stylesheet" href="../css/style.css">
-    <title>Fishing Unlimited</title>
+    <title>Cart</title>
     <link rel="icon" type="image/gif/png" href="../images/title.jpg">
 </head>
 

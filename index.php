@@ -90,11 +90,27 @@
 
     <!-------CONTENT CODE-------->
     <div class="content">
-        <div class="side-nav">
-            <p>Side nav</p>
-        </div>
         <div class="main">
-            <p>Main</p>
+            <h1>Fishing Unlimited</h1>
+            <hr>
+            <p>Fishing Unlimited is an online based store, which will supply you with all your fishing needs. <br/>
+               We are currently only selling a selection of fishing rods, reels and fishing line,
+               although we will be expanding our product range quite frequently. <br/>
+               Our selection is based of the feedback of professional anglers, to ensure we only provide you with the highest quality products. <br>
+               Feel free to view our products.
+                <br><br><br><br>
+               <a class = "view-prod" href= "resources/cart/products.php">VIEW  PRODUCTS</a>
+            </p>
+            <br><br><br>
+            <h1>Contact us</h1>
+            <p>
+                Feel free to contact us for any enquiries: <br><br>
+                <ul>
+                <li>e-Mail: fishingunlimited@fishza.co.za</li><br>
+                <li>Tel: (0)21 316 7640</li> <br>
+                <li>Postal Address: PO Box 117, Durbanville, Cape Town, 7701</li>
+                </ul>
+            </p>
         </div>
     </div>
 
