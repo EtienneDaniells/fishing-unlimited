@@ -17,9 +17,7 @@
 
 
 
-<body class ="no-scroll">
-
-    <!--LOADING SCREEN-->
+<body class ="no-scroll">   
     
 
     <!--LOG IN CODE-->
@@ -86,6 +84,7 @@
             </div>
         </nav>
 
+        <!--LOADING SCREEN-->
         <div class='spinner-ctn'>
         <h1>Loading</h1>
         <div class ='spinner'>
