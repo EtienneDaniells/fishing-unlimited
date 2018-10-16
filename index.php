@@ -32,7 +32,7 @@
             <div class="signIn-ctn">
                 <input type="text" placeholder="Enter Username" name= "username">
                 <input type="password" placeholder="Enter Password" name= "password">
-                <button type= "submit" value = "submit" onsubmit= "validate()" href ="index.php" >Sign in</button>
+                <button type= "submit" value = "submit" onsubmit= "validate()">Sign in</button>
             </div>
         </form>
     </div>

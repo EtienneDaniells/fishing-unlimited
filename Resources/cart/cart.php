@@ -120,7 +120,7 @@
                         <a href='cart.php'>Cart</a>
                     </li>
                     <li>
-                        <a href='#p' id='signIn-pop'>Sign In</a>
+                        <a href='#' id='signIn-pop'>Sign In</a>
                     </li>
                 </ul>
             </div>
@@ -198,6 +198,7 @@
     
 
 </body>
+<script type="text/javascript" src="../js/jquery-3.3.1.js"></script>
 <script type="text/javascript" src="../js/script.js"></script>
 
 </html>
