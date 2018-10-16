@@ -1,3 +1,4 @@
+$(document).ready(function() {
 
 //Sign in pop up
 document.getElementById('signIn-pop').addEventListener('click',
@@ -12,3 +13,10 @@ window.onclick = function (event) {
     signIn.style.display = "none";
   }
 }
+
+setTimeout(function(){
+$("body, html").removeClass("no-scroll");
+$(".spinner-ctn").hide();
+} , 3000);
+
+});

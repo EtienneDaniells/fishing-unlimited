@@ -3,7 +3,7 @@
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="no-scroll">
 
 <head>
     <meta charset="UTF-8">
@@ -12,12 +12,15 @@
     <link rel="stylesheet" href="resources/css/ionicons.min.css">
     <link rel="stylesheet" href="resources/css/style.css">
     <title>Fishing Unlimited</title>
-    <link rel="icon" type="image/gif/png" href="resources/images/title.jpg">
+    <link rel="icon" type="image/gif/png" href="resources/images/title.jpg">    
 </head>
 
 
 
-<body>
+<body class ="no-scroll">
+
+    <!--LOADING SCREEN-->
+    
 
     <!--LOG IN CODE-->
 
@@ -31,7 +34,7 @@
             <div class="signIn-ctn">
                 <input type="text" placeholder="Enter Username" name= "username">
                 <input type="password" placeholder="Enter Password" name= "password">
-                <button type= "submit" value = "submit" onsubmit= "validate()" >Sign in</button>
+                <button type= "submit" value = "submit" onsubmit= "validate()" href ="index.php" >Sign in</button>
             </div>
         </form>
     </div>
@@ -82,6 +85,17 @@
                 </ul>
             </div>
         </nav>
+
+        <div class='spinner-ctn'>
+        <h1>Loading</h1>
+        <div class ='spinner'>
+        <div class='rectangle1'></div>
+        <div class='rectangle2'></div>
+        <div class='rectangle3'></div>
+        <div class='rectangle4'></div>
+        <div class='rectangle5'></div>
+        </div>
+        </div>
             ";
         }
     ?>
@@ -122,6 +136,7 @@
 
 </body>
 
+<script type="text/javascript" src="resources/js/jquery-3.3.1.js"></script>
 <script type="text/javascript" src="resources/js/script.js"></script>
 
 </html>
